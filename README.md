@@ -6,4 +6,4 @@ Compile the file running the `compile.sh` script this will automatically add roo
 
 The file will always try to execute a file with the same name as it appending the `.sh` extension, you can rename it to whatever you want.
 
-For example rename it to `post-receive` and save it into the `hooks` folder of your git, then create a file called `post-receive.sh` and do anything you want in there.
+For example rename it to `post-receive` and save it into the git repository, then create a file called `post-receive.sh` and do anything you want in there.
